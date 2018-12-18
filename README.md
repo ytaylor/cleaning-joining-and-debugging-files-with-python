@@ -8,9 +8,9 @@ This data set contain a file txt with information about the "Censo Agrario de Es
 
 ## Clean and debugging files
 
-The fisrt step is join all the excel files in one in order to facilite the future jobs, and delete inncesary data in this files for example the headers.
+The first step is join all the excel files in one in order to facilite the future jobs, and delete inncesary data for example the headers.
 
-Then the clean txt file is necesary only obtain the data about a province speccify, in this case the province with the code "05". For this depuration is necesary a script un python, which do the clean an debbuging.
+Then the clean txt file is necesary only obtain the data about a province specifies, in this case the province with the code "05". For this depuration we writed a script un python, which do the clean an debbuging.
 
 
 
