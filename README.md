@@ -12,7 +12,14 @@ The first step is join all the excel files in one in order to facilite the futur
 
 Then the clean txt file is necesary only obtain the data about a province specifies, in this case the province with the code "05". For this depuration we writed a script un python, which do the clean an debbuging.
 
+The final step is join all files in one file with clean data. 
 
+## Script python 
+
+For this script we are used openpyxl python package to work with excel files. 
+```
+!pip install openpyxl
+```
 
 
 
